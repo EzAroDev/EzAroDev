@@ -50,7 +50,7 @@
 <ul>
   <li>
     Projects and work available on my
-    <a href="https://www.ezaro-portfolio.com/en" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.sharujanvickneswaran.com" target="_blank" rel="noopener noreferrer">
       portfolio
     </a>
   </li>
