@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sharujan-vickneswaran" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png"
       alt="LinkedIn"
       width="36"
       height="36"
@@ -25,7 +25,7 @@
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.ezaro-portfolio.com/en" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.sharujanvickneswaran.com" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.freepik.com/vecteurs-premium/logo-mascotte-dragon-rouge-icone-vecteur-cercle-silhouette-tete-dragon_23758-594.jpg"
       alt="Portfolio"
