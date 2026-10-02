@@ -27,7 +27,7 @@
   &nbsp;&nbsp;
   <a href="https://www.sharujanvickneswaran.com" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.freepik.com/vecteurs-premium/logo-mascotte-dragon-rouge-icone-vecteur-cercle-silhouette-tete-dragon_23758-594.jpg"
+      src="https://www.sharujanvickneswaran.com/favicon-96x96.png"
       alt="Portfolio"
       width="36"
       height="36"
